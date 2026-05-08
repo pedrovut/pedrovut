@@ -2,7 +2,7 @@
 
 I’m currently pursuing a degree in **Software Engineering**, focusing my studies on **high-quality Fullstack** development, productivity, and making the best use of the tools and technologies available to me.
 
-Socials: pedropsouza.contato@gmail.com | [Linkedin](https://www.linkedin.com/in/pedropsouza/)
+Contact-me: pedropsouza.contato@gmail.com | [Linkedin](https://www.linkedin.com/in/pedropsouza/)
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,linux,git)
 
