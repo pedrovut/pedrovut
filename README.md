@@ -7,6 +7,7 @@ Contact-me: pedropsouza.contato@gmail.com | [Linkedin](https://www.linkedin.com/
 ![My Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,linux,git)
 
 ### GitHub Stats 📊
+---
 ![](https://github-readme-stats.vercel.app/api?username=pedrovut&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrovut&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovut&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
