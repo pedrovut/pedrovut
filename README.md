@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pedro Souza! 😃</h1>
+<h1 align="center">Hi, I'm Pedro! 😃</h1>
 
 I’m currently pursuing a degree in **Software Engineering**, focusing my studies on **high-quality Fullstack** development, productivity, and making the best use of the tools and technologies available to me.
 
