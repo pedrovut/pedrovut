@@ -4,7 +4,7 @@ I’m currently pursuing a degree in **Software Engineering**, focusing my studi
 
 Contact-me: pedropsouza.contato@gmail.com | [Linkedin](https://www.linkedin.com/in/pedropsouza/)
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,mysql,postgresql,linux)
+![My Skills](https://skillicons.dev/icons?i=java,spring,py,js,ts,nodejs,mysql,postgresql,linux)
 
 ### GitHub Stats 📊
 ---
